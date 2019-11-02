@@ -1,3 +1,3 @@
 # Project-3
-Unamed currently
+Budgeting App(Name is a work in progress)
 ReactJS based app/
